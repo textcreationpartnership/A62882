@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words of counsel and advice to all the sons and daughters of men, more especially to the children of believers from the motion of Gods spirit upon my heart, in the love of God that they may come to lead the course of their lives in this world, so as to lay down their heads in peace with the Lord, when time in this world shall be no more.</title>
+            <author>Tompkins, Anthony, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62882</idno>
+            <idno type="STC">Wing T1830</idno>
+            <idno type="STC">ESTC R10282</idno>
+            <idno type="EEBO-CITATION">12590659</idno>
+            <idno type="OCLC">ocm 12590659</idno>
+            <idno type="VID">63900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 676:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words of counsel and advice to all the sons and daughters of men, more especially to the children of believers from the motion of Gods spirit upon my heart, in the love of God that they may come to lead the course of their lives in this world, so as to lay down their heads in peace with the Lord, when time in this world shall be no more.</title>
+                  <author>Tompkins, Anthony, d. 1699.</author>
+                  <author>Needham, Richard.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Anthony Tompkins. Cf. NUC pre-1956.</note>
+                  <note>Also contains A short testimony sprang and opened in my heart / Richard Needham.</note>
+                  <note>Signed at end: R.N.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Youth --  Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63900:1"/>
+            <pb facs="tcp:63900:1" rendition="simple:additions"/>
+            <p>A FEW WORDS OF COUNSEL AND ADVICE TO ALL The Sons and Daughters of MEN; More Eſpecially to the <hi>Children of Believers.</hi>
+            </p>
+            <p>FROM The Motion of Gods Spirit upon my Heart, in the Love of God that they may come to lead the courſe of their Lives in this World; ſo as to lay down their Heads in Peace with the Lord, when time in this World ſhall be no more.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1687.</p>
+            <pb facs="tcp:63900:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:63900:2"/>
+            <head>
+               <hi>A few Words of Counſel and Advice to all the Sons and Daughters of Men,</hi> &amp;c.</head>
+            <p>1. ADvice to Children that they learn the Fear of the Lord; and then they will hate Pride and Arrogancy, and every evil way, and then they will be in a capacity to ſeek after the way of the Lord, which is found of them that ſeek after it, which bleſſed be God many have found, and do walk in it, and do find peace as they continue walking therein to their immortal Souls.</p>
+            <p>The beginning of all the Sons and Daughters of Men, ſhould be to learn the Fear of the Lord, which <hi>is the beginning of Wiſdom,</hi> and to depart from Iniquity, that's a good underſtanding, but to the Grief of my heart, I often ſee, inſtead hereof, they learn Wanton<g ref="char:EOLhyphen"/>neſs, Pride, Arrogancy, and every evil way: And take pleaſure in walking in the broad Way which leadeth to deſtruction; altho the Lord by his Light and Grace hath appeared to teach them, <hi>To deny <g ref="char:V">Ʋ</g>ngodlineſs, and Worldly Luſt, and to live Godlily, Righteouſly, and So<g ref="char:EOLhyphen"/>berly in this preſent evil World;</hi> the which maketh the hearts of many ſad, when we ſee after our often Endeavours and Labours we have be<g ref="char:EOLhyphen"/>ſtowed, how ineffectual it is to ſome Children of whom we had hopes concerning them in their minority, when very young, that they might have continued as Paterns and Examples to them that might follow them of good: But by reaſon of the liberty they run into, for to gratifie the fleſhly mind, we are afraid we have beſtowed much la<g ref="char:EOLhyphen"/>bour in vain upon many of them, therefore a word in my heart to Caution all to be wiſe, <hi>and conſider their latter End;</hi> and be entreated to mind and not ſlight the love of God to their Souls, that the Lord ſhould raiſe up your Parents, that they might be a kind of Firſt-fruits unto God, in whom the Lord hath vouchſafed to place His Name amongſt: and hath made it Honourable. Oh, prize the great love of God to them, and to you herein, that you have had not only Nurſing Fathers and Mothers for your Bodies but for your Souls alſo Oh, the ſorrow and trouble that's come upon many, to ſee their Chil<g ref="char:EOLunhyphen"/>drens minds lifted up after vanity, they being departed in a large mea<g ref="char:EOLhyphen"/>ſure
+<pb n="2" facs="tcp:63900:3"/>
+from the Grace of God. Oh, be awakened, I beſeech you, <hi>Why will ye Die? The wages of Sin is Death.</hi> Oh, be entreated to break off from your Sins by a timely Repentance: Let none ſay, <hi>I am Young, and after I am more grown in years, I ſhall leave off thoſe ſuperfluous things, and incline to be more ſober:</hi> I warn all to have a care how they make theſe delayed Propoſals, leſt to their wo and miſery it proves to be to all Eternity. For can the <hi>Ethiopian</hi> change his Skin, or the <hi>Leopard</hi> his Spots? No more can they do well who are accuſtomed to do Evil. This is written in true love to the Souls of young People that are in the motions of ſin, to exhort and entreat them to Repent of their miſdeeds, and to ceaſe to do Evil, and to learn to do well, and then they may draw near unto God; and the Lord hath pro<g ref="char:EOLhyphen"/>miſed he will draw near unto ſuch; and then life to your Souls you'l come to witneſs. And here you will come to receive from God life to your immortal Souls. As many as comes to witneſs this, never had cauſe to repent that forſook the Worlds Faſhions, Cuſtoms, and Tra<g ref="char:EOLhyphen"/>ditions. For ſuch have received an hundred fold in this life; and they have Faith in the Promiſe of our Lord Jeſus Chriſt, who hath pro<g ref="char:EOLhyphen"/>miſed everlaſting Life alſo. Therefore young People be entreated to lay aſide the ſin of Pride, <hi>For as out of the abundance of the heart the mouth ſpeaketh:</hi> ſo by the Immodeſty, Pride, and Coſtlineſs of Ha<g ref="char:EOLhyphen"/>bit people weareth, their hearts appear, <hi>For the Tree is known by its Fruit:</hi> Therefore let none ſeek to cover their ſins, for they that do will never proſper. This is in a few words to warn all young People to Flee from the wrath to come: For it will be more tollerable for thoſe that were the Children of Unbelieving Parents, who knew not the Truth as it is in Jeſus, when you muſt come to give an account to the Lord of the deeds done in the Body. Oh, Conſider, conſider the Lords love to your Souls: the Lord hath given you warning after warning from his People, but many hardned their Hearts, and will not hear reproof. Oh, that you that are Children of Believing Pa<g ref="char:EOLhyphen"/>rents, may become clean Veſſels fit to receive and hold the heavenly Treaſure. And you that are believing Parents, may not be wanting to bring up your <hi>Children in the nurture and admonition of the Lord, and giving good Example.</hi> Much I could write, my heart being opened by the Lord, but a word to the wiſe is ſufficient; but conſider the ma<g ref="char:EOLhyphen"/>ny warnings you have had of late. The Ground that the Rain oft deſcends upon, and yet bringeth fourth nothing but Bryars and Thorns. Oh, conſider what is ſaid to be the end of it. This I have caſt in as a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle Mite, who am a Traveller for the proſperity of Sion, and that <hi>Jeruſalem</hi> may become the praiſe of the whole Earth.</p>
+            <p>
+               <pb n="3" facs="tcp:63900:3"/>
+               <hi>Bleſſed are all the Sons and Daughters of men that are come to love the Lord with all their Hearts; and to hate Pride and Arrogancy, and every evil way; and that cometh to love the Law of God written in their hearts; And whoſe hearts are inclined to keep it, and are found Meditating in it Day and Night: Theſe are they that the Lord cauſeth to grow and proſper, and are bleſſed in all their <g ref="char:V">Ʋ</g>ndertakings: And ſuch are Trees of Righte<g ref="char:EOLhyphen"/>ouſneſs, the planting of the Lord, and they bring forth much fruit, to the Praiſe and Glory of the Name of the Lord, whoſe Name is worthy to be exalted over all for ever.</hi>
+            </p>
+            <closer>
+               <dateline>Written <date>the 20th day of the Firſt Month, 1686/7.</date>
+               </dateline>
+               <signed>A. T.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>
+               <hi>A Short Teſtimony Sprang and Opened in my Heart unto all Young Men and Women, who make Profeſſion and Confeſſion of the bleſſed Name of</hi> JESUS.</head>
+            <opener>
+               <salute>DEar and well beloved Friends of Truth, whom the Lord hath Convinced of his Bleſſed Way of Life, that only gives true Peace and Satisfaction to the immortal Soul, and hath gathered your hearts and minds, in any meaſure, into the Covenant of Life, Peace, and Salvation,</salute>
+            </opener>
+            <p>it is in my heart to lay down in plainneſs ſomething of the dealings of the Lord with me, as the Lord opens me, and enligh<g ref="char:EOLhyphen"/>tens the eye of my underſtanding, and brings things to my remem<g ref="char:EOLhyphen"/>brance. Dear Friends, the Lord in daies paſt, and in years that are gone, convinced me of the vain Faſhions of the World in my (Trade or) Calling; but not being faithful to the bleſſed manifeſtation of Light; nor giving up to the requirings of the Spirit of the Lord upon my mind; but after ſome time, let in the Spirit of the World (for want of true hearty obedience to the Lord) and gave the exerciſe of my mind and hands (to be a Slave) to that Spirit that runs into the ſuper<g ref="char:EOLhyphen"/>fluities of things, altogether needleſs, by which my underſtanding be<g ref="char:EOLhyphen"/>came darkned, by reaſon of diſobedience to the heavenly Call, in theſe things my Soul received a great wound. I hope I need not men<g ref="char:EOLhyphen"/>tion particular things, but all Friends who are concerned, may under<g ref="char:EOLhyphen"/>ſtand what I here hint at, as there is a waiting in the light of Life, to feel what the Spirit of the Lord moveth againſt: For, dear Friends, the Lord hath ſhewed me, it is below the Nobility of the Truth which we profeſs, to be as Slaves to that Spirit that runs into theſe changable things, for it is my Teſtimony it is a deſtroying the Creation of God;
+<pb n="4" facs="tcp:63900:4"/>
+and ſo it is as bad as Gluttony and Drunkenneſs: And ſo, my dear Friends, who are convinced of the bleſſed everlaſting Truth, be faith<g ref="char:EOLhyphen"/>ful to the Lord, I dearly beſeech you, as one that have been near the brink of the horrible pit of Darkneſs, and have known the ſtroke of God's dreadful correcting hand for diſobedience, and have ſomewhat been acquainted with the miſterious wiles of Satan, the Enemy of all Righteouſneſs; Therefore, my dear Friends, I beſeech you, whoſe hearts the Lord hath touched with his Love, be faithful to the Lord, and keep out of the vain Faſhions of the World, and take heed of that curious mind that can hardly be pleaſed, but all wait for the feeling of the Sword of the Spirit, the Word of God, that ſlays ſin and cuts down Tranſgreſſion, and pierceth through the Scales of the Serpent, for his Scales is his Pride, ſhut up together as with a cloſe Seal, for he is a King and Rules over all the Children of Pride: Therefore Friends, watch againſt him, for he hath many Snares, and many Gins: There<g ref="char:EOLhyphen"/>fore, my dear Friends, wait low upon the Lord, that you may feel that which ſtops Satans Gins, and breaks the Bonds of the Wicked One, for whoſoever is overtaken with theſe Snares, it will lead ſuch from the ſolid life; and ſo, my dear Friends, I beſeech you be modeſt and ſober, that herein you may judge them that run into that vain, proud, fantaſtical Spirit which is become as a God amongſt People; yea, as I may ſay the greateſt God that many thouſands of People Worſhip, for that which is the chiefeſt exalted in the heart of Man, or in the heart of Woman, that's their God, and that they worſhip, and that they fall down unto, let it be of what nature ſoever it is; And therefore, my dearly beloved Friends, I dearly beſeech you, wait for the feeling of the incorruptible Seed, that you may be true born Heirs of that bleſſed everlaſting Kingdom that ſhall never have an end, which comes not with obſervations, as Chriſt ſaid when he was de<g ref="char:EOLhyphen"/>manded by the Phariſees when the Kingdom of Heaven ſhould come, he ſaid, <hi>The Kingdom of Heaven comes not with Obſervations, not in the Lo here,</hi> or the <hi>Lo there, but behold the Kingdom of Heaven is within you.</hi> [Mark] He ſaid to the Scribes and Phariſees (tho they did not believe in his Name) that the Kingdom of Heaven was within them, but they were not in it (ſee ye) ſo the Kingdom of Heaven may be in a man, and that man out of the Kingdom; therefore Friends, let a true and a narrow ſearch be made in every heart, and wait for the feeling of that little Seed of the Kingdom, which was compared to a grain of Muſtard-Seed, which is the leaſt of all Seeds: But when it i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grown it is the greateſt amongſt Herbs, and becometh a Tree; ſo that the Birds of the Air come and lodge in the Branches thereof.
+<pb n="5" facs="tcp:63900:4"/>
+Another Parable our Lord and Saviour ſpake unto them, <hi>The King<g ref="char:EOLhyphen"/>dom is like unto Leaven, which a Woman took and hid in three Meaſures of Meal, till the whole was Leavened;</hi> therefore let all wait for this, that the old nature may be wrought out, by the Operation of the word of Life, for it is as powerful in its Operation as ever it was, it is not at all changed in its Nature or Property, but is the ſame: and it works the ſame works in all them that dwell in the Love of the Truth, as ever it did in antient Daies. Oh, there is an excellent vertue in this bleſſed Seed: Oh that it were more known amongſt the Sons and Daughters of Men; Therefore, my dear Friends, Brethren, and Si<g ref="char:EOLhyphen"/>ſters, whoſe hearts the Lord hath in any meaſure touched with his Love. Oh, wait more and more for the feeling of this bleſſed Seed, that a real work and thorow change, you may all come to witneſs by the power of this bleſſed Seed of <hi>Jacob,</hi> the Noble Seed, the heavenly found Seed of <hi>Abraham,</hi> to which all muſt bow or be broken by it; for whoſoever falls upon it ſhall be broken and tendred; but on whom<g ref="char:EOLhyphen"/>ſoever it falls it will grinde them to powder. And ſo, my dear Friends, this is the deſire of my heart, and the breathing of my Soul to the Lord, that all whoſe faces are turned Sion-wards, may wait for the bringing forth of the Birth and <hi>Babe Immortal,</hi> and hearken to its Cry. Oh, the Cry of the <hi>Babe Immortal,</hi> and the breathing forth of It unto the Father; all wait this day to feel; then, I know, pure Praiſes and living Thankſgivings will ariſe up unto the Father, natu<g ref="char:EOLhyphen"/>rally out of the mouth of that Birth, for it is the nature of the <hi>Babe Immortal</hi> to breath unto the Father, and to bleſs, praiſe and magnifie the Name of the Father that begets it: and ſo, my Friends, wait ſo upon God, that you may feel that holy Seed (which God hath ſown in your hearts) to grow and to proſper; that it may bring forth fruit to the praiſe of God, for have not our Souls been in a deep Travel, and our Spirits pained within us, when we went weeping and mourning, enquiring the way to Sion? And therefore, my Friends, whom the Lords Arm hath in any meaſure reached unto, Ariſe, ariſe, and ſhake your ſelves from the duſt of the Earth, and come up to the help of the Lord, againſt the Mighty power of Darkneſs (to wit, the Devil) the grand Enemy of the Souls of all men, that i<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you may feel the ariſing of Sions Glory, for the Day of the Lord is broken forth, and his bleſſed Day, his glorious Day ſprung from on High hath viſited our Souls in an acceptable Day, and in a time of need: bleſſed be the Name of the Lord our God for ever. And as much as we have obtained mercy with the God of mercy: Oh, my dear Friends, prize his Love, prize his mercies, and let them be as
+<pb n="6" facs="tcp:63900:5" rendition="simple:additions"/>
+a double ingagement upon your Spirits to feat before him, that ſo you may feel the aboundings and ſuper aboundings of his Love flowing forth into your boſom daily, ſo that none be as the careleſs Daughters of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion. But all be faithful to your firſt Loves, not only remain in the ourward Courts, or in an outward Conformity to the Truth, or covered with Self-righteouſneſs, but that you may be as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Saviour upon Mount Sion that can never be removed, <hi>For ye are the Salt of the Earth, but if the Salt have loſt its Savour, wherewith ſhall it be ſalted: it is hence<g ref="char:EOLhyphen"/>forth good for nothing, but to be caſt out, and troden underfoot of Men,</hi> ſaith our Lord and Saviour Jeſus Chriſt; who ſaid, <hi>I am the Vine, ye are the Branches, and as the Branches cannot bring forth Fruit but as they abide in the Vine no more can ye, except ye abide in me.</hi> So, my dear Friends, wait for the feeling of his Light and Life, that ye may be kept in the love of the Truth, that the Seed may take deep t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> downward, and bring forth fruit upward, that the Plant of Gods renown, which his own right hand hath planted, may grow up in every ones Heart; for every Plant that my heavenly Fathers Hand hath not Planted, ſhall be plucked up, <hi>And every Tree that brings not forth good Fruit, ſhall be hewen down, and caſt into the fire:</hi> And ſo I dearly be<g ref="char:EOLhyphen"/>ſeech you all Young Men and Women, who are convinced of the Lords bleſſed everlaſting Truth. <hi>Faſhion not your ſelves according to your former Luſts in your ignorance, but let the time paſt be ſufficient, whoſe adorning</hi> (ſaith the Apoſtle) <hi>Let it not be that of putting on of Apparel; but mind the hidden man of the heart, which is a meek and quiet Spirit, which is with the Lord of great Price;</hi> This was the Apoſtles wholeſom ex<g ref="char:EOLhyphen"/>hortation and admonition, <hi>For after this manner</hi> (ſaith he) <hi>in the old time, the holy Women of old, who truſted in God, adorned themſelves, be<g ref="char:EOLhyphen"/>ing in ſubjection to their own Husbands, even as</hi> Sarah <hi>obeyed</hi> Abraham, <hi>calling him, Lord, whoſe Daughters ye are as long as you do well, and are not afraid with any amazement;</hi> Therefore, Friends, take good heed unto your ſelves, that ye love the Lord your God, that ſo the pure fear of the Lord be lived in, that we may walk low before the Lord in the Humility of our Spirits, that we may in all things adorn the Doctrin of the Goſpel of our Lord and Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt, who hath called us with an high and holy Calling, for if we be not faithful to the Lord who hath in mercy reached unto us, then we do not anſwer the end fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which we are Called. And ſo the very God of peace ſanctifie you wholly, through<g ref="char:EOLhyphen"/>out, in Soul, Body, and Spirit, that the God of all Grace, who hath Called us into his Eternal Glory by Chriſt Jeſus (after you have ſuffered a while) make you per<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> and Eſtabliſh, Strengthen and Settle you. To Him be Glory and Dominion over all who is God over all, bleſſed for ever and for evermore.</p>
+            <closer>
+               <dateline>Given forth </dateline>
+               <signed>by a lover of Truth, who deſires the proſperity of Sions Seed,<hi>R. N.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END<g ref="char:punc">▪</g>
+            </trailer>
+            <pb facs="tcp:63900:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
